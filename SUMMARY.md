@@ -23,6 +23,7 @@
     * [9 - Palindrome Number - Easy](interview/high/9-palindrome-number-easy.md)
     * [14 - Longest Common Prefix - Easy](interview/high/14-longest-common-prefix-easy.md)
     * [42 - Trapping Rain Water - Hard](interview/high/42-trapping-rain-water-hard.md)
+    * [70 - Climbing Stairs - Easy](interview/high/70-climbing-stairs-easy.md)
 
 ## Basics
 
