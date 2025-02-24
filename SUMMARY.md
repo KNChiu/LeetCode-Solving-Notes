@@ -29,6 +29,7 @@
     * [42 - Trapping Rain Water - Hard](interview/high/42-trapping-rain-water-hard.md)
     * [70 - Climbing Stairs - Easy](interview/high/70-climbing-stairs-easy.md)
     * [3440 - Reschedule Meetings for Maximum Free Time II - Medium](interview/high/3440-reschedule-meetings-for-maximum-free-time-ii-medium.md)
+    * [136. Single Number - Easy](interview/high/136.-single-number-easy.md)
 
 ## Basics
 
