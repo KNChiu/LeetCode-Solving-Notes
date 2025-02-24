@@ -15,6 +15,7 @@
     * [487. Max Consecutive Ones II -](interview/basic/487.-max-consecutive-ones-ii.md)
     * [209. Minimum Size Subarray Sum - Medium](interview/basic/209.-minimum-size-subarray-sum-medium.md)
     * [3: Longest Substring Without Repeating Characters](interview/basic/3-longest-substring-without-repeating-characters.md)
+    * [34. Find First and Last Position of Element in Sorted Array - Medium](interview/basic/34.-find-first-and-last-position-of-element-in-sorted-array-medium.md)
   * [High](interview/high/README.md)
     * [1 - Two Sum - Easy](interview/high/1-two-sum-easy.md)
     * [1768 - Merge Strings Alternately - Easy](interview/high/1768-merge-strings-alternately-easy.md)
