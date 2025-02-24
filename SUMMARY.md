@@ -32,6 +32,7 @@
     * [3440 - Reschedule Meetings for Maximum Free Time II - Medium](interview/high/3440-reschedule-meetings-for-maximum-free-time-ii-medium.md)
     * [136. Single Number - Easy](interview/high/136.-single-number-easy.md)
     * [169. Majority Element - Easy](interview/high/169.-majority-element-easy.md)
+    * [118. Pascal's Triangle - Easy](interview/high/118.-pascals-triangle-easy.md)
 
 ## Basics
 
