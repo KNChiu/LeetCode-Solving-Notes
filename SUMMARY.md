@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Template](template.md)
+* [5. Longest Palindromic Substring - Medium](5.-longest-palindromic-substring-medium.md)
 * [75](75/README.md)
   * [Binary Tree - DFS](75/binary-tree-dfs/README.md)
     * [104 - Maximum Depth of Binary Tree - Easy](75/binary-tree-dfs/104-maximum-depth-of-binary-tree-easy.md)
