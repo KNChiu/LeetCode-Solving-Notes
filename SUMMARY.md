@@ -34,6 +34,7 @@
     * [169. Majority Element - Easy](interview/high/169.-majority-element-easy.md)
     * [118. Pascal's Triangle - Easy](interview/high/118.-pascals-triangle-easy.md)
     * [221. Maximal Square - Medium](interview/high/221.-maximal-square-medium.md)
+    * [3151. Special Array I - Easy](interview/high/3151.-special-array-i-easy.md)
 
 ## Basics
 
