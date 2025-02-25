@@ -2,7 +2,6 @@
 
 * [Welcome](README.md)
 * [Template](template.md)
-* [5. Longest Palindromic Substring - Medium](5.-longest-palindromic-substring-medium.md)
 * [75](75/README.md)
   * [Binary Tree - DFS](75/binary-tree-dfs/README.md)
     * [104 - Maximum Depth of Binary Tree - Easy](75/binary-tree-dfs/104-maximum-depth-of-binary-tree-easy.md)
@@ -37,6 +36,8 @@
     * [221. Maximal Square - Medium](interview/high/221.-maximal-square-medium.md)
     * [3151. Special Array I - Easy](interview/high/3151.-special-array-i-easy.md)
     * [2364. Count Number of Bad Pairs - Medium](interview/high/2364.-count-number-of-bad-pairs-medium.md)
+    * [5. Longest Palindromic Substring - Medium](interview/high/5.-longest-palindromic-substring-medium.md)
+    * [15. 3Sum - Medium](interview/high/15.-3sum-medium.md)
 
 ## Basics
 
