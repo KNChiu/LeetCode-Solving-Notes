@@ -35,6 +35,7 @@
     * [118. Pascal's Triangle - Easy](interview/high/118.-pascals-triangle-easy.md)
     * [221. Maximal Square - Medium](interview/high/221.-maximal-square-medium.md)
     * [3151. Special Array I - Easy](interview/high/3151.-special-array-i-easy.md)
+    * [2364. Count Number of Bad Pairs - Medium](interview/high/2364.-count-number-of-bad-pairs-medium.md)
 
 ## Basics
 
