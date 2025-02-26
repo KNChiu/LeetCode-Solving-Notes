@@ -41,6 +41,7 @@
     * [53. Maximum Subarray - Medium](interview/high/53.-maximum-subarray-medium.md)
     * [189. Rotate Array - Medium](interview/high/189.-rotate-array-medium.md)
     * [219. Contains Duplicate II - Easy](interview/high/219.-contains-duplicate-ii-easy.md)
+    * [283. Move Zeroes - Easy](interview/high/283.-move-zeroes-easy.md)
 
 ## Basics
 
