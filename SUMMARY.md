@@ -3,6 +3,8 @@
 * [Welcome](README.md)
 * [Template](template.md)
 * [75](75/README.md)
+  * [Arrays & Hashing](75/arrays-and-hashing/README.md)
+    * [49. Group Anagrams - Medium](75/arrays-and-hashing/49.-group-anagrams-medium.md)
   * [Binary Tree - DFS](75/binary-tree-dfs/README.md)
     * [104 - Maximum Depth of Binary Tree - Easy](75/binary-tree-dfs/104-maximum-depth-of-binary-tree-easy.md)
     * [872 - Leaf-Similar Trees - Easy](75/binary-tree-dfs/quickstart.md)
