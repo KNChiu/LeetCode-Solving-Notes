@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Template](template.md)
+* [13. Roman to Integer](13.-roman-to-integer.md)
 * [75](75/README.md)
   * [Binary Tree - DFS](75/binary-tree-dfs/README.md)
     * [104 - Maximum Depth of Binary Tree - Easy](75/binary-tree-dfs/104-maximum-depth-of-binary-tree-easy.md)
