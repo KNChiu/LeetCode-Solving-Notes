@@ -38,6 +38,7 @@
     * [2364. Count Number of Bad Pairs - Medium](interview/high/2364.-count-number-of-bad-pairs-medium.md)
     * [5. Longest Palindromic Substring - Medium](interview/high/5.-longest-palindromic-substring-medium.md)
     * [15. 3Sum - Medium](interview/high/15.-3sum-medium.md)
+    * [53. Maximum Subarray - Medium](interview/high/53.-maximum-subarray-medium.md)
 
 ## Basics
 
