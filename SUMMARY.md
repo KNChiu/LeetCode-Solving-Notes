@@ -40,6 +40,7 @@
     * [15. 3Sum - Medium](interview/high/15.-3sum-medium.md)
     * [53. Maximum Subarray - Medium](interview/high/53.-maximum-subarray-medium.md)
     * [189. Rotate Array - Medium](interview/high/189.-rotate-array-medium.md)
+    * [219. Contains Duplicate II - Easy](interview/high/219.-contains-duplicate-ii-easy.md)
 
 ## Basics
 
