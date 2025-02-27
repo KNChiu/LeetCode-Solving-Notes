@@ -8,6 +8,7 @@
     * [347. Top K Frequent Elements - Medium](75/arrays-and-hashing/347.-top-k-frequent-elements-medium.md)
     * [271. Encode and Decode Strings - Medium](75/arrays-and-hashing/271.-encode-and-decode-strings-medium.md)
     * [238. Product of Array Except Self - Medium](75/arrays-and-hashing/238.-product-of-array-except-self-medium.md)
+    * [128. Longest Consecutive Sequence - Medium](75/arrays-and-hashing/128.-longest-consecutive-sequence-medium.md)
   * [Binary Tree - DFS](75/binary-tree-dfs/README.md)
     * [104 - Maximum Depth of Binary Tree - Easy](75/binary-tree-dfs/104-maximum-depth-of-binary-tree-easy.md)
     * [872 - Leaf-Similar Trees - Easy](75/binary-tree-dfs/quickstart.md)
