@@ -18,6 +18,8 @@
     * [3: Longest Substring Without Repeating Characters](75/sliding-window/3-longest-substring-without-repeating-characters.md)
     * [424. Longest Repeating Character Replacement - Medium](75/sliding-window/424.-longest-repeating-character-replacement-medium.md)
     * [76. Minimum Window Substring - Hard](75/sliding-window/76.-minimum-window-substring-hard.md)
+  * [Stack](75/stack/README.md)
+    * [20. Valid Parentheses](75/stack/20.-valid-parentheses.md)
   * [Binary Tree - DFS](75/binary-tree-dfs/README.md)
     * [104 - Maximum Depth of Binary Tree - Easy](75/binary-tree-dfs/104-maximum-depth-of-binary-tree-easy.md)
     * [872 - Leaf-Similar Trees - Easy](75/binary-tree-dfs/quickstart.md)
