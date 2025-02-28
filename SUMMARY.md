@@ -32,6 +32,7 @@
     * [236. Lowest Common Ancestor of a Binary Tree - Medium](75/binary-tree-dfs/236.-lowest-common-ancestor-of-a-binary-tree-medium.md)
     * [102. Binary Tree Level Order Traversal](75/binary-tree-dfs/102.-binary-tree-level-order-traversal.md)
     * [98. Validate Binary Search Tree - Medium](75/binary-tree-dfs/98.-validate-binary-search-tree-medium.md)
+    * [230. Kth Smallest Element in a BST - Medium](75/binary-tree-dfs/230.-kth-smallest-element-in-a-bst-medium.md)
     * [235. Lowest Common Ancestor of a Binary Search Tree - Medium](75/binary-tree-dfs/235.-lowest-common-ancestor-of-a-binary-search-tree-medium.md)
     * [1448 - Count Good Nodes in Binary Tree - Medium](75/binary-tree-dfs/1448-count-good-nodes-in-binary-tree-medium.md)
     * [437 - Path Sum III - Medium](75/binary-tree-dfs/437-path-sum-iii-medium.md)
