@@ -24,6 +24,7 @@
     * [153. Find Minimum in Rotated Sorted Array - Medium](75/binary-search/153.-find-minimum-in-rotated-sorted-array-medium.md)
     * [33. Search in Rotated Sorted Array - Medium](75/binary-search/33.-search-in-rotated-sorted-array-medium.md)
   * [Binary Tree - DFS](75/binary-tree-dfs/README.md)
+    * [226. Invert Binary Tree - Easy](75/binary-tree-dfs/226.-invert-binary-tree-easy.md)
     * [104 - Maximum Depth of Binary Tree - Easy](75/binary-tree-dfs/104-maximum-depth-of-binary-tree-easy.md)
     * [872 - Leaf-Similar Trees - Easy](75/binary-tree-dfs/quickstart.md)
     * [1448 - Count Good Nodes in Binary Tree - Medium](75/binary-tree-dfs/1448-count-good-nodes-in-binary-tree-medium.md)
