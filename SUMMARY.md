@@ -35,6 +35,8 @@
     * [98. Validate Binary Search Tree - Medium](75/binary-tree-dfs/98.-validate-binary-search-tree-medium.md)
     * [230. Kth Smallest Element in a BST - Medium](75/binary-tree-dfs/230.-kth-smallest-element-in-a-bst-medium.md)
     * [105. Construct Binary Tree from Preorder and Inorder Traversal](75/binary-tree-dfs/105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
+    * [124. Binary Tree Maximum Path Sum - Hard](75/binary-tree-dfs/124.-binary-tree-maximum-path-sum-hard.md)
+    * [297. Serialize and Deserialize Binary Tree - Hard](75/binary-tree-dfs/297.-serialize-and-deserialize-binary-tree-hard.md)
     * [1448 - Count Good Nodes in Binary Tree - Medium](75/binary-tree-dfs/1448-count-good-nodes-in-binary-tree-medium.md)
     * [437 - Path Sum III - Medium](75/binary-tree-dfs/437-path-sum-iii-medium.md)
     * [1372 - Longest ZigZag Path in a Binary Tree - Medium](75/binary-tree-dfs/1372-longest-zigzag-path-in-a-binary-tree-medium.md)
