@@ -22,6 +22,7 @@
     * [20. Valid Parentheses - Easy](75/stack/20.-valid-parentheses-easy.md)
   * [Binary Search](75/binary-search/README.md)
     * [153. Find Minimum in Rotated Sorted Array - Medium](75/binary-search/153.-find-minimum-in-rotated-sorted-array-medium.md)
+    * [33. Search in Rotated Sorted Array - Medium](75/binary-search/33.-search-in-rotated-sorted-array-medium.md)
   * [Binary Tree - DFS](75/binary-tree-dfs/README.md)
     * [104 - Maximum Depth of Binary Tree - Easy](75/binary-tree-dfs/104-maximum-depth-of-binary-tree-easy.md)
     * [872 - Leaf-Similar Trees - Easy](75/binary-tree-dfs/quickstart.md)
