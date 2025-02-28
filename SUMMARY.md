@@ -27,6 +27,7 @@
     * [226. Invert Binary Tree - Easy](75/binary-tree-dfs/226.-invert-binary-tree-easy.md)
     * [104 - Maximum Depth of Binary Tree - Easy](75/binary-tree-dfs/104-maximum-depth-of-binary-tree-easy.md)
     * [100. Same Tree - Easy](75/binary-tree-dfs/100.-same-tree-easy.md)
+    * [572. Subtree of Another Tree - Easy](75/binary-tree-dfs/572.-subtree-of-another-tree-easy.md)
     * [872 - Leaf-Similar Trees - Easy](75/binary-tree-dfs/quickstart.md)
     * [1448 - Count Good Nodes in Binary Tree - Medium](75/binary-tree-dfs/1448-count-good-nodes-in-binary-tree-medium.md)
     * [437 - Path Sum III - Medium](75/binary-tree-dfs/437-path-sum-iii-medium.md)
