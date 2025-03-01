@@ -45,6 +45,8 @@
     * [39. Combination Sum - Medium](75/backtracking/39.-combination-sum-medium.md)
     * [77. Combinations - Medium](75/backtracking/77.-combinations-medium.md)
     * [79: Word Search - Medium](75/backtracking/79-word-search-medium.md)
+  * [1-D Dynamic Programming](75/1-d-dynamic-programming/README.md)
+    * [198. House Robber](75/1-d-dynamic-programming/198.-house-robber.md)
 * [interview](interview/README.md)
   * [Basic](interview/basic/README.md)
     * [167 - Two Sum II - Input Array Is Sorted - Medium](interview/basic/167-two-sum-ii-input-array-is-sorted-medium.md)
