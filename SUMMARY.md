@@ -46,6 +46,7 @@
     * [77. Combinations - Medium](75/backtracking/77.-combinations-medium.md)
     * [79: Word Search - Medium](75/backtracking/79-word-search-medium.md)
   * [1-D Dynamic Programming](75/1-d-dynamic-programming/README.md)
+    * [70. Climbing Stairs - Easy](75/1-d-dynamic-programming/70.-climbing-stairs-easy.md)
     * [198. House Robber](75/1-d-dynamic-programming/198.-house-robber.md)
 * [interview](interview/README.md)
   * [Basic](interview/basic/README.md)
