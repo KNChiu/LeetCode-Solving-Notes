@@ -44,6 +44,7 @@
     * [78. Subsets - Medium](75/backtracking/78.-subsets-medium.md)
     * [39. Combination Sum - Medium](75/backtracking/39.-combination-sum-medium.md)
     * [77. Combinations - Medium](75/backtracking/77.-combinations-medium.md)
+    * [79: Word Search - Medium](75/backtracking/79-word-search-medium.md)
 * [interview](interview/README.md)
   * [Basic](interview/basic/README.md)
     * [167 - Two Sum II - Input Array Is Sorted - Medium](interview/basic/167-two-sum-ii-input-array-is-sorted-medium.md)
