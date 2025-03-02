@@ -8,6 +8,7 @@
     * [347. Top K Frequent Elements - Medium](75/arrays-and-hashing/347.-top-k-frequent-elements-medium.md)
     * [271. Encode and Decode Strings - Medium](75/arrays-and-hashing/271.-encode-and-decode-strings-medium.md)
     * [238. Product of Array Except Self - Medium](75/arrays-and-hashing/238.-product-of-array-except-self-medium.md)
+    * [36. Valid Sudoku - Medium](75/arrays-and-hashing/36.-valid-sudoku-medium.md)
     * [128. Longest Consecutive Sequence - Medium](75/arrays-and-hashing/128.-longest-consecutive-sequence-medium.md)
   * [Two Pointers](75/two-pointers/README.md)
     * [125. Valid Palindrome - Easy](75/two-pointers/125.-valid-palindrome-easy.md)
