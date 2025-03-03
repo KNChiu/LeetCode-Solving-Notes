@@ -12,6 +12,7 @@
     * [128. Longest Consecutive Sequence - Medium](75/arrays-and-hashing/128.-longest-consecutive-sequence-medium.md)
   * [Two Pointers](75/two-pointers/README.md)
     * [125. Valid Palindrome - Easy](75/two-pointers/125.-valid-palindrome-easy.md)
+    * [167. Two Sum II - Input Array Is Sorted](75/two-pointers/167.-two-sum-ii-input-array-is-sorted.md)
     * [15. 3Sum - Medium](75/two-pointers/15.-3sum-medium.md)
     * [11. Container With Most Water - Medium](75/two-pointers/11.-container-with-most-water-medium.md)
   * [Sliding Window](75/sliding-window/README.md)
