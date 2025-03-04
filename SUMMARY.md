@@ -25,6 +25,7 @@
   * [Stack](leetcode/stack/README.md)
     * [20. Valid Parentheses - Easy](leetcode/stack/20.-valid-parentheses-easy.md)
   * [Binary Search](leetcode/binary-search/README.md)
+    * [704. Binary Search](leetcode/binary-search/704.-binary-search.md)
     * [153. Find Minimum in Rotated Sorted Array - Medium](leetcode/binary-search/153.-find-minimum-in-rotated-sorted-array-medium.md)
     * [33. Search in Rotated Sorted Array - Medium](leetcode/binary-search/33.-search-in-rotated-sorted-array-medium.md)
   * [Binary Tree - DFS](leetcode/binary-tree-dfs/README.md)
