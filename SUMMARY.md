@@ -27,6 +27,7 @@
   * [Binary Search](leetcode/binary-search/README.md)
     * [704. Binary Search - Easy](leetcode/binary-search/704.-binary-search-easy.md)
     * [74. Search a 2D Matrix - Medium](leetcode/binary-search/74.-search-a-2d-matrix-medium.md)
+    * [875. Koko Eating Bananas - Medium](leetcode/binary-search/875.-koko-eating-bananas-medium.md)
     * [153. Find Minimum in Rotated Sorted Array - Medium](leetcode/binary-search/153.-find-minimum-in-rotated-sorted-array-medium.md)
     * [33. Search in Rotated Sorted Array - Medium](leetcode/binary-search/33.-search-in-rotated-sorted-array-medium.md)
   * [Binary Tree - DFS](leetcode/binary-tree-dfs/README.md)
