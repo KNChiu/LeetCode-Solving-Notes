@@ -34,6 +34,7 @@
   * [Binary Tree - DFS](leetcode/binary-tree-dfs/README.md)
     * [226. Invert Binary Tree - Easy](leetcode/binary-tree-dfs/226.-invert-binary-tree-easy.md)
     * [104 - Maximum Depth of Binary Tree - Easy](leetcode/binary-tree-dfs/104-maximum-depth-of-binary-tree-easy.md)
+    * [543. Diameter of Binary Tree - Easy](leetcode/binary-tree-dfs/543.-diameter-of-binary-tree-easy.md)
     * [100. Same Tree - Easy](leetcode/binary-tree-dfs/100.-same-tree-easy.md)
     * [572. Subtree of Another Tree - Easy](leetcode/binary-tree-dfs/572.-subtree-of-another-tree-easy.md)
     * [872 - Leaf-Similar Trees - Easy](leetcode/binary-tree-dfs/quickstart.md)
