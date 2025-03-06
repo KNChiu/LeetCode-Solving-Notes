@@ -53,6 +53,7 @@
   * [Backtracking](leetcode/backtracking/README.md)
     * [78. Subsets - Medium](leetcode/backtracking/78.-subsets-medium.md)
     * [39. Combination Sum - Medium](leetcode/backtracking/39.-combination-sum-medium.md)
+    * [46. Permutations - Medium](leetcode/backtracking/46.-permutations-medium.md)
     * [77. Combinations - Medium](leetcode/backtracking/77.-combinations-medium.md)
     * [79: Word Search - Medium](leetcode/backtracking/79-word-search-medium.md)
   * [1-D Dynamic Programming](leetcode/1-d-dynamic-programming/README.md)
