@@ -56,6 +56,7 @@
     * [46. Permutations - Medium](leetcode/backtracking/46.-permutations-medium.md)
     * [90. Subsets II - Medium](leetcode/backtracking/90.-subsets-ii-medium.md)
     * [79: Word Search - Medium](leetcode/backtracking/79-word-search-medium.md)
+    * [131. Palindrome Partitioning - Medium](leetcode/backtracking/131.-palindrome-partitioning-medium.md)
   * [1-D Dynamic Programming](leetcode/1-d-dynamic-programming/README.md)
     * [70. Climbing Stairs - Easy](leetcode/1-d-dynamic-programming/70.-climbing-stairs-easy.md)
     * [198. House Robber - Medium](leetcode/1-d-dynamic-programming/198.-house-robber-medium.md)
