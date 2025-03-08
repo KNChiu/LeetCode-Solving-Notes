@@ -71,6 +71,7 @@
     * [322. Coin Change](leetcode/1-d-dynamic-programming/322.-coin-change.md)
     * [152. Maximum Product Subarray - Medium](leetcode/1-d-dynamic-programming/152.-maximum-product-subarray-medium.md)
     * [139. Word Break - Medium](leetcode/1-d-dynamic-programming/139.-word-break-medium.md)
+    * [300. Longest Increasing Subsequence - Medium](leetcode/1-d-dynamic-programming/300.-longest-increasing-subsequence-medium.md)
 * [interview](interview/README.md)
   * [Basic](interview/basic/README.md)
     * [167 - Two Sum II - Input Array Is Sorted - Medium](interview/basic/167-two-sum-ii-input-array-is-sorted-medium.md)
