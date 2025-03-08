@@ -67,6 +67,7 @@
     * [213. House Robber II - Medium](leetcode/1-d-dynamic-programming/213.-house-robber-ii-medium.md)
     * [5. Longest Palindromic Substring - Medium](leetcode/1-d-dynamic-programming/5.-longest-palindromic-substring-medium.md)
     * [647. Palindromic Substrings - Medium](leetcode/1-d-dynamic-programming/647.-palindromic-substrings-medium.md)
+    * [91. Decode Ways - Medium](leetcode/1-d-dynamic-programming/91.-decode-ways-medium.md)
     * [322. Coin Change](leetcode/1-d-dynamic-programming/322.-coin-change.md)
 * [interview](interview/README.md)
   * [Basic](interview/basic/README.md)
