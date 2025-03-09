@@ -28,6 +28,7 @@
     * [155. Min Stack - Medium](leetcode/stack/155.-min-stack-medium.md)
     * [150. Evaluate Reverse Polish Notation - Medium](leetcode/stack/150.-evaluate-reverse-polish-notation-medium.md)
     * [22. Generate Parentheses - Medium](leetcode/stack/22.-generate-parentheses-medium.md)
+    * [739. Daily Temperatures - Medium](leetcode/stack/739.-daily-temperatures-medium.md)
   * [Binary Search](leetcode/binary-search/README.md)
     * [704. Binary Search - Easy](leetcode/binary-search/704.-binary-search-easy.md)
     * [74. Search a 2D Matrix - Medium](leetcode/binary-search/74.-search-a-2d-matrix-medium.md)
