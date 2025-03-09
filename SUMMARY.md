@@ -25,6 +25,7 @@
     * [239. Sliding Window Maximum - hard](leetcode/sliding-window/239.-sliding-window-maximum-hard.md)
   * [Stack](leetcode/stack/README.md)
     * [20. Valid Parentheses - Easy](leetcode/stack/20.-valid-parentheses-easy.md)
+    * [155. Min Stack - Medium](leetcode/stack/155.-min-stack-medium.md)
   * [Binary Search](leetcode/binary-search/README.md)
     * [704. Binary Search - Easy](leetcode/binary-search/704.-binary-search-easy.md)
     * [74. Search a 2D Matrix - Medium](leetcode/binary-search/74.-search-a-2d-matrix-medium.md)
