@@ -22,6 +22,7 @@
     * [424. Longest Repeating Character Replacement - Medium](leetcode/sliding-window/424.-longest-repeating-character-replacement-medium.md)
     * [567. Permutation in String](leetcode/sliding-window/567.-permutation-in-string.md)
     * [76. Minimum Window Substring - Hard](leetcode/sliding-window/76.-minimum-window-substring-hard.md)
+    * [239. Sliding Window Maximum - hard](leetcode/sliding-window/239.-sliding-window-maximum-hard.md)
   * [Stack](leetcode/stack/README.md)
     * [20. Valid Parentheses - Easy](leetcode/stack/20.-valid-parentheses-easy.md)
   * [Binary Search](leetcode/binary-search/README.md)
