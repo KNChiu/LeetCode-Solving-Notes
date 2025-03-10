@@ -39,6 +39,7 @@
     * [4. Median of Two Sorted Arrays - Hard](leetcode/binary-search/4.-median-of-two-sorted-arrays-hard.md)
   * [Linked List](leetcode/linked-list/README.md)
     * [206. Reverse Linked List - Easy](leetcode/linked-list/206.-reverse-linked-list-easy.md)
+    * [21. Merge Two Sorted Lists - Easy](leetcode/linked-list/21.-merge-two-sorted-lists-easy.md)
   * [Trees](leetcode/trees/README.md)
     * [226. Invert Binary Tree - Easy](leetcode/trees/226.-invert-binary-tree-easy.md)
     * [104 - Maximum Depth of Binary Tree - Easy](leetcode/trees/104-maximum-depth-of-binary-tree-easy.md)
