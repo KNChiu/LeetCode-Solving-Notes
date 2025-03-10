@@ -60,6 +60,7 @@
     * [703. Kth Largest Element in a Stream - Easy](leetcode/heap-priority-queue/703.-kth-largest-element-in-a-stream-easy.md)
     * [1046. Last Stone Weight - Easy](leetcode/heap-priority-queue/1046.-last-stone-weight-easy.md)
     * [973. K Closest Points to Origin - Medium](leetcode/heap-priority-queue/973.-k-closest-points-to-origin-medium.md)
+    * [215. Kth Largest Element in an Array - Medium](leetcode/heap-priority-queue/215.-kth-largest-element-in-an-array-medium.md)
   * [Backtracking](leetcode/backtracking/README.md)
     * [78. Subsets - Medium](leetcode/backtracking/78.-subsets-medium.md)
     * [39. Combination Sum - Medium](leetcode/backtracking/39.-combination-sum-medium.md)
