@@ -58,6 +58,7 @@
     * [1372 - Longest ZigZag Path in a Binary Tree - Medium](leetcode/trees/1372-longest-zigzag-path-in-a-binary-tree-medium.md)
   * [Heap / Priority Queue](leetcode/heap-priority-queue/README.md)
     * [703. Kth Largest Element in a Stream - Easy](leetcode/heap-priority-queue/703.-kth-largest-element-in-a-stream-easy.md)
+    * [1046. Last Stone Weight - Easy](leetcode/heap-priority-queue/1046.-last-stone-weight-easy.md)
   * [Backtracking](leetcode/backtracking/README.md)
     * [78. Subsets - Medium](leetcode/backtracking/78.-subsets-medium.md)
     * [39. Combination Sum - Medium](leetcode/backtracking/39.-combination-sum-medium.md)
