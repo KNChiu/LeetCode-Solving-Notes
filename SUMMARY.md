@@ -63,6 +63,7 @@
     * [1372 - Longest ZigZag Path in a Binary Tree - Medium](leetcode/trees/1372-longest-zigzag-path-in-a-binary-tree-medium.md)
     * [1161. Maximum Level Sum of a Binary Tree - Medium](leetcode/trees/1161.-maximum-level-sum-of-a-binary-tree-medium.md)
     * [700. Search in a Binary Search Tree - Easy](leetcode/trees/700.-search-in-a-binary-search-tree-easy.md)
+    * [450. Delete Node in a BST - Medium](leetcode/trees/450.-delete-node-in-a-bst-medium.md)
   * [Heap / Priority Queue](leetcode/heap-priority-queue/README.md)
     * [703. Kth Largest Element in a Stream - Easy](leetcode/heap-priority-queue/703.-kth-largest-element-in-a-stream-easy.md)
     * [1046. Last Stone Weight - Easy](leetcode/heap-priority-queue/1046.-last-stone-weight-easy.md)
