@@ -81,6 +81,7 @@
     * [17. Letter Combinations of a Phone Number - Medium](leetcode/backtracking/17.-letter-combinations-of-a-phone-number-medium.md)
     * [51. N-Queens - Hard](leetcode/backtracking/51.-n-queens-hard.md)
   * [Graphs](leetcode/graphs/README.md)
+    * [200. Number of Islands - Medium](leetcode/graphs/200.-number-of-islands-medium.md)
     * [841. Keys and Rooms - Medium](leetcode/graphs/841.-keys-and-rooms-medium.md)
   * [1-D Dynamic Programming](leetcode/1-d-dynamic-programming/README.md)
     * [70. Climbing Stairs - Easy](leetcode/1-d-dynamic-programming/70.-climbing-stairs-easy.md)
