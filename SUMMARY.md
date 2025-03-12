@@ -83,6 +83,7 @@
   * [Graphs](leetcode/graphs/README.md)
     * [200. Number of Islands - Medium](leetcode/graphs/200.-number-of-islands-medium.md)
     * [841. Keys and Rooms - Medium](leetcode/graphs/841.-keys-and-rooms-medium.md)
+    * [547. Number of Provinces - Medium](leetcode/graphs/547.-number-of-provinces-medium.md)
   * [1-D Dynamic Programming](leetcode/1-d-dynamic-programming/README.md)
     * [70. Climbing Stairs - Easy](leetcode/1-d-dynamic-programming/70.-climbing-stairs-easy.md)
     * [746. Min Cost Climbing Stairs - Easy](leetcode/1-d-dynamic-programming/746.-min-cost-climbing-stairs-easy.md)
