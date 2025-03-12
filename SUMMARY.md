@@ -98,6 +98,8 @@
     * [416. Partition Equal Subset Sum - Medium](leetcode/1-d-dynamic-programming/416.-partition-equal-subset-sum-medium.md)
   * [2-D Dynamic Programming](leetcode/2-d-dynamic-programming/README.md)
     * [494. Target Sum - Medium](leetcode/2-d-dynamic-programming/494.-target-sum-medium.md)
+  * [Math & Geometry](leetcode/math-and-geometry/README.md)
+    * [54. Spiral Matrix - Medium](leetcode/math-and-geometry/54.-spiral-matrix-medium.md)
 * [interview](interview/README.md)
   * [Basic](interview/basic/README.md)
     * [167 - Two Sum II - Input Array Is Sorted - Medium](interview/basic/167-two-sum-ii-input-array-is-sorted-medium.md)
