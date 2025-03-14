@@ -85,6 +85,7 @@
     * [841. Keys and Rooms - Medium](leetcode/graphs/841.-keys-and-rooms-medium.md)
     * [547. Number of Provinces - Medium](leetcode/graphs/547.-number-of-provinces-medium.md)
     * [695. Max Area of Island - Medium](leetcode/graphs/695.-max-area-of-island-medium.md)
+    * [1466. Reorder Routes to Make All Paths Lead to the City Zero - Medium](leetcode/graphs/1466.-reorder-routes-to-make-all-paths-lead-to-the-city-zero-medium.md)
   * [1-D Dynamic Programming](leetcode/1-d-dynamic-programming/README.md)
     * [70. Climbing Stairs - Easy](leetcode/1-d-dynamic-programming/70.-climbing-stairs-easy.md)
     * [746. Min Cost Climbing Stairs - Easy](leetcode/1-d-dynamic-programming/746.-min-cost-climbing-stairs-easy.md)
