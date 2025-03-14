@@ -88,6 +88,7 @@
     * [1466. Reorder Routes to Make All Paths Lead to the City Zero - Medium](leetcode/graphs/1466.-reorder-routes-to-make-all-paths-lead-to-the-city-zero-medium.md)
     * [399. Evaluate Division - Medium](leetcode/graphs/399.-evaluate-division-medium.md)
     * [1926. Nearest Exit from Entrance in Maze - Medium](leetcode/graphs/1926.-nearest-exit-from-entrance-in-maze-medium.md)
+    * [994. Rotting Oranges - Medium](leetcode/graphs/994.-rotting-oranges-medium.md)
   * [1-D Dynamic Programming](leetcode/1-d-dynamic-programming/README.md)
     * [70. Climbing Stairs - Easy](leetcode/1-d-dynamic-programming/70.-climbing-stairs-easy.md)
     * [746. Min Cost Climbing Stairs - Easy](leetcode/1-d-dynamic-programming/746.-min-cost-climbing-stairs-easy.md)
