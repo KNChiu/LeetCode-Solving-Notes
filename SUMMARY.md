@@ -131,6 +131,7 @@
     * [42 - Trapping Rain Water - Hard](interview/high/42-trapping-rain-water-hard.md)
     * [70 - Climbing Stairs - Easy](interview/high/70-climbing-stairs-easy.md)
     * [3440 - Reschedule Meetings for Maximum Free Time II - Medium](interview/high/3440-reschedule-meetings-for-maximum-free-time-ii-medium.md)
+    * [56. Merge Intervals](interview/high/56.-merge-intervals.md)
     * [136. Single Number - Easy](interview/high/136.-single-number-easy.md)
     * [169. Majority Element - Easy](interview/high/169.-majority-element-easy.md)
     * [2965. Find Missing and Repeated Values - Easy](interview/high/2965.-find-missing-and-repeated-values-easy.md)
