@@ -72,6 +72,7 @@
     * [973. K Closest Points to Origin - Medium](leetcode/heap-priority-queue/973.-k-closest-points-to-origin-medium.md)
     * [215. Kth Largest Element in an Array - Medium](leetcode/heap-priority-queue/215.-kth-largest-element-in-an-array-medium.md)
     * [2542. Maximum Subsequence Score - Medium](leetcode/heap-priority-queue/2542.-maximum-subsequence-score-medium.md)
+    * [2462. Total Cost to Hire K Workers - Medium](leetcode/heap-priority-queue/2462.-total-cost-to-hire-k-workers-medium.md)
   * [Backtracking](leetcode/backtracking/README.md)
     * [78. Subsets - Medium](leetcode/backtracking/78.-subsets-medium.md)
     * [39. Combination Sum - Medium](leetcode/backtracking/39.-combination-sum-medium.md)
