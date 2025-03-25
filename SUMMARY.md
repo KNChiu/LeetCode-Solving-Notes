@@ -38,6 +38,7 @@
     * [33. Search in Rotated Sorted Array - Medium](leetcode/binary-search/33.-search-in-rotated-sorted-array-medium.md)
     * [981. Time Based Key-Value Store - Medium](leetcode/binary-search/981.-time-based-key-value-store-medium.md)
     * [4. Median of Two Sorted Arrays - Hard](leetcode/binary-search/4.-median-of-two-sorted-arrays-hard.md)
+    * [2300. Successful Pairs of Spells and Potions - Medium](leetcode/binary-search/2300.-successful-pairs-of-spells-and-potions-medium.md)
   * [Linked List](leetcode/linked-list/README.md)
     * [206. Reverse Linked List - Easy](leetcode/linked-list/206.-reverse-linked-list-easy.md)
     * [21. Merge Two Sorted Lists - Easy](leetcode/linked-list/21.-merge-two-sorted-lists-easy.md)
