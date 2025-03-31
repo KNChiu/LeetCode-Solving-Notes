@@ -109,6 +109,7 @@
     * [139. Word Break - Medium](leetcode/1-d-dynamic-programming/139.-word-break-medium.md)
     * [300. Longest Increasing Subsequence - Medium](leetcode/1-d-dynamic-programming/300.-longest-increasing-subsequence-medium.md)
     * [416. Partition Equal Subset Sum - Medium](leetcode/1-d-dynamic-programming/416.-partition-equal-subset-sum-medium.md)
+    * [790. Domino and Tromino Tiling - Medium](leetcode/1-d-dynamic-programming/790.-domino-and-tromino-tiling-medium.md)
   * [2-D Dynamic Programming](leetcode/2-d-dynamic-programming/README.md)
     * [494. Target Sum - Medium](leetcode/2-d-dynamic-programming/494.-target-sum-medium.md)
   * [Math & Geometry](leetcode/math-and-geometry/README.md)
