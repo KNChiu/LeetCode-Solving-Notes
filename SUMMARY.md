@@ -115,6 +115,7 @@
     * [62. Unique Paths - Medium](leetcode/2-d-dynamic-programming/62.-unique-paths-medium.md)
     * [1143. Longest Common Subsequence - Medium](leetcode/2-d-dynamic-programming/1143.-longest-common-subsequence-medium.md)
     * [714.Best Time to Buy and Sell Stock with Transaction Fee - Medium](leetcode/2-d-dynamic-programming/714.best-time-to-buy-and-sell-stock-with-transaction-fee-medium.md)
+    * [72. Edit Distance](leetcode/2-d-dynamic-programming/72.-edit-distance.md)
   * [Math & Geometry](leetcode/math-and-geometry/README.md)
     * [54. Spiral Matrix - Medium](leetcode/math-and-geometry/54.-spiral-matrix-medium.md)
 * [interview](interview/README.md)
