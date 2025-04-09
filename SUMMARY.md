@@ -119,7 +119,7 @@
   * [Math & Geometry](leetcode/math-and-geometry/README.md)
     * [54. Spiral Matrix - Medium](leetcode/math-and-geometry/54.-spiral-matrix-medium.md)
   * [Intervals](leetcode/intervals/README.md)
-    * [435. Non-overlapping Intervals](leetcode/intervals/435.-non-overlapping-intervals.md)
+    * [435. Non-overlapping Intervals - Medium](leetcode/intervals/435.-non-overlapping-intervals-medium.md)
 * [interview](interview/README.md)
   * [Basic](interview/basic/README.md)
     * [167 - Two Sum II - Input Array Is Sorted - Medium](interview/basic/167-two-sum-ii-input-array-is-sorted-medium.md)
