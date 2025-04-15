@@ -32,6 +32,7 @@
     * [739. Daily Temperatures - Medium](leetcode/stack/739.-daily-temperatures-medium.md)
     * [901. Online Stock Span - Medium](leetcode/stack/901.-online-stock-span-medium.md)
     * [853. Car Fleet - Medium](leetcode/stack/853.-car-fleet-medium.md)
+    * [84. Largest Rectangle in Histogram - Hard](leetcode/stack/84.-largest-rectangle-in-histogram-hard.md)
   * [Binary Search](leetcode/binary-search/README.md)
     * [704. Binary Search - Easy](leetcode/binary-search/704.-binary-search-easy.md)
     * [74. Search a 2D Matrix - Medium](leetcode/binary-search/74.-search-a-2d-matrix-medium.md)
