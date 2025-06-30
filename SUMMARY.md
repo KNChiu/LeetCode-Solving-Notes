@@ -129,6 +129,7 @@
   * [Greedy](leetcode/greedy/README.md)
     * [53. Maximum Subarray - Medium](leetcode/greedy/53.-maximum-subarray-medium.md)
     * [55. Jump Game - Medium](leetcode/greedy/55.-jump-game-medium.md)
+    * [45. Jump Game II - Medium](leetcode/greedy/45.-jump-game-ii-medium.md)
   * [Math & Geometry](leetcode/math-and-geometry/README.md)
     * [54. Spiral Matrix - Medium](leetcode/math-and-geometry/54.-spiral-matrix-medium.md)
   * [Intervals](leetcode/intervals/README.md)
