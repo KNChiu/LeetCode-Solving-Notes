@@ -134,6 +134,7 @@
     * [846. Hand of Straights - Medium](leetcode/greedy/846.-hand-of-straights-medium.md)
     * [1899. Merge Triplets to Form Target Triplet - Medium](leetcode/greedy/1899.-merge-triplets-to-form-target-triplet-medium.md)
     * [763. Partition Labels - Medium](leetcode/greedy/763.-partition-labels-medium.md)
+    * [678. Valid Parenthesis String - Medium](leetcode/greedy/678.-valid-parenthesis-string-medium.md)
   * [Math & Geometry](leetcode/math-and-geometry/README.md)
     * [54. Spiral Matrix - Medium](leetcode/math-and-geometry/54.-spiral-matrix-medium.md)
   * [Intervals](leetcode/intervals/README.md)
