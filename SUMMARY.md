@@ -133,6 +133,7 @@
     * [134. Gas Station - Medium](leetcode/greedy/134.-gas-station-medium.md)
     * [846. Hand of Straights - Medium](leetcode/greedy/846.-hand-of-straights-medium.md)
     * [1899. Merge Triplets to Form Target Triplet - Medium](leetcode/greedy/1899.-merge-triplets-to-form-target-triplet-medium.md)
+    * [763. Partition Labels - Medium](leetcode/greedy/763.-partition-labels-medium.md)
   * [Math & Geometry](leetcode/math-and-geometry/README.md)
     * [54. Spiral Matrix - Medium](leetcode/math-and-geometry/54.-spiral-matrix-medium.md)
   * [Intervals](leetcode/intervals/README.md)
