@@ -107,6 +107,7 @@
     * [210. Course Schedule II - medium](leetcode/graphs/210.-course-schedule-ii-medium.md)
     * [684. Redundant Connection - Medium](leetcode/graphs/684.-redundant-connection-medium.md)
     * [743. Network Delay Time - Medium](leetcode/graphs/743.-network-delay-time-medium.md)
+    * [1584. Min Cost to Connect All Points - Medium](leetcode/graphs/1584.-min-cost-to-connect-all-points-medium.md)
   * [1-D Dynamic Programming](leetcode/1-d-dynamic-programming/README.md)
     * [70. Climbing Stairs - Easy](leetcode/1-d-dynamic-programming/70.-climbing-stairs-easy.md)
     * [746. Min Cost Climbing Stairs - Easy](leetcode/1-d-dynamic-programming/746.-min-cost-climbing-stairs-easy.md)
