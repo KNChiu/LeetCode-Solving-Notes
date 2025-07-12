@@ -141,6 +141,7 @@
     * [678. Valid Parenthesis String - Medium](leetcode/greedy/678.-valid-parenthesis-string-medium.md)
   * [Math & Geometry](leetcode/math-and-geometry/README.md)
     * [54. Spiral Matrix - Medium](leetcode/math-and-geometry/54.-spiral-matrix-medium.md)
+    * [48. Rotate Image](leetcode/math-and-geometry/48.-rotate-image.md)
   * [Intervals](leetcode/intervals/README.md)
     * [57. Insert Interval - Medium](leetcode/intervals/57.-insert-interval-medium.md)
     * [435. Non-overlapping Intervals - Medium](leetcode/intervals/435.-non-overlapping-intervals-medium.md)
