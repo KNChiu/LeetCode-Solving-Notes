@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Template](template.md)
+* [684. Redundant Connection - Medium](684.-redundant-connection-medium.md)
 * [LeetCode](leetcode/README.md)
   * [Arrays & Hashing](leetcode/arrays-and-hashing/README.md)
     * [49. Group Anagrams - Medium](leetcode/arrays-and-hashing/49.-group-anagrams-medium.md)
