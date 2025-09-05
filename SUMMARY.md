@@ -16,6 +16,7 @@
     * [15. 3Sum - Medium](leetcode/two-pointers/15.-3sum-medium.md)
     * [11. Container With Most Water - Medium](leetcode/two-pointers/11.-container-with-most-water-medium.md)
     * [42. Trapping Rain Water - Hard](leetcode/two-pointers/42.-trapping-rain-water-hard.md)
+    * [2824: Count Pairs Whose Sum is Less than Target - Easy](leetcode/two-pointers/2824-count-pairs-whose-sum-is-less-than-target-easy.md)
   * [Sliding Window](leetcode/sliding-window/README.md)
     * [121. Best Time to Buy and Sell Stock - Easy](leetcode/sliding-window/121.-best-time-to-buy-and-sell-stock-easy.md)
     * [3: Longest Substring Without Repeating Characters - Medium](leetcode/sliding-window/3-longest-substring-without-repeating-characters-medium.md)
