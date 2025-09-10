@@ -20,6 +20,7 @@
     * [16. 3Sum Closest - Medium](leetcode/two-pointers/16.-3sum-closest-medium.md)
     * [18. 4Sum - Medium](leetcode/two-pointers/18.-4sum-medium.md)
     * [611. Valid Triangle Number - Medium](leetcode/two-pointers/611.-valid-triangle-number-medium.md)
+    * [2105. Watering Plants II - Medium](leetcode/two-pointers/2105.-watering-plants-ii-medium.md)
   * [Sliding Window](leetcode/sliding-window/README.md)
     * [121. Best Time to Buy and Sell Stock - Easy](leetcode/sliding-window/121.-best-time-to-buy-and-sell-stock-easy.md)
     * [3: Longest Substring Without Repeating Characters - Medium](leetcode/sliding-window/3-longest-substring-without-repeating-characters-medium.md)
