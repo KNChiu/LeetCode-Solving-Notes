@@ -33,6 +33,7 @@
     * [713. Subarray Product Less Than K - Medium](leetcode/sliding-window/713.-subarray-product-less-than-k-medium.md)
     * [2958. Length of Longest Subarray With at Most K Frequency - Medium](leetcode/sliding-window/2958.-length-of-longest-subarray-with-at-most-k-frequency-medium.md)
     * [1052.Grumpy Bookstore Owner - Medium](leetcode/sliding-window/1052.grumpy-bookstore-owner-medium.md)
+    * [2024.Maximize the Confusion of an Exam - Medium](leetcode/sliding-window/2024.maximize-the-confusion-of-an-exam-medium.md)
   * [Stack](leetcode/stack/README.md)
     * [20. Valid Parentheses - Easy](leetcode/stack/20.-valid-parentheses-easy.md)
     * [155. Min Stack - Medium](leetcode/stack/155.-min-stack-medium.md)
